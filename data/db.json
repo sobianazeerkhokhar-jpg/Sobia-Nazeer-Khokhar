@@ -1,0 +1,677 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "slug": "earrings",
+      "name": "Earrings",
+      "description": "Chic hoops, studs, drop earrings and statement chandeliers",
+      "image": "/src/assets/images/product_gold_hoops_1791811785683.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-2",
+      "slug": "necklaces",
+      "name": "Necklaces & Chains",
+      "description": "Layered gold chains, timeless pearl chokers and pendant necklaces",
+      "image": "/src/assets/images/product_pearl_necklace_1791811765012.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-3",
+      "slug": "rings",
+      "name": "Rings",
+      "description": "Stackable bands, signet rings, solitaire crystal bands and adjustable sizes",
+      "image": "/src/assets/images/product_gold_hoops_1791811785683.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-4",
+      "slug": "bracelets",
+      "name": "Bracelets & Bangles",
+      "description": "Sparkling tennis bracelets, minimalist cuffs and anti-tarnish bangles",
+      "image": "/src/assets/images/product_tennis_bracelet_1791811809037.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-5",
+      "slug": "jewelry-sets",
+      "name": "Jewelry Sets",
+      "description": "Coordinated necklace, earring, and bracelet sets crafted for bridal & festive moments",
+      "image": "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-6",
+      "slug": "anklets",
+      "name": "Anklets",
+      "description": "Delicate gold chain anklets and beach-ready waterproof beaded designs",
+      "image": "/src/assets/images/product_tennis_bracelet_1791811809037.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-7",
+      "slug": "hair-accessories",
+      "name": "Hair Accessories",
+      "description": "Pearl hair pins, claw clips and crystal hair crowns for modern styling",
+      "image": "/src/assets/images/product_pearl_necklace_1791811765012.jpg",
+      "isActive": true
+    },
+    {
+      "id": "cat-8",
+      "slug": "gift-items",
+      "name": "Gift Sets & Accessories",
+      "description": "Curated velvet gift packaging, jewelry organizers, and keepsake luxury boxes",
+      "image": "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg",
+      "isActive": true
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "slug": "golden-minimal-hoop-earrings",
+      "name": "Golden Minimal Chunky Hoop Earrings",
+      "sku": "EAR-GLD-001",
+      "category": "earrings",
+      "collection": "Anti-Tarnish Essentials",
+      "price": 1850,
+      "salePrice": 1450,
+      "stock": 23,
+      "material": "Stainless Steel / 18K Real Gold PVD Plated",
+      "color": "Warm Gold",
+      "size": "22mm Diameter",
+      "isAntiTarnish": true,
+      "description": "Our iconic Chunky Gold Hoops are engineered with high-grade medical stainless steel and vacuum PVD gold plating. Completely waterproof, sweat-proof, and perfume-resistant, these everyday hoops retain their luminous mirror polish without tarnishing.",
+      "specifications": {
+        "Plating": "18K Gold Vacuum PVD Plated",
+        "Base Metal": "316L Surgical Grade Stainless Steel",
+        "Weight": "8.2 grams (pair)",
+        "Closure": "Secure Click-in Hinge",
+        "Hypoallergenic": "100% Nickel & Lead-Free"
+      },
+      "careInstructions": "Waterproof & anti-tarnish. You can wear these while showering, swimming, or working out. Wipe clean with a soft micro-fiber cloth to preserve its golden mirror lustre.",
+      "images": [
+        "/src/assets/images/product_gold_hoops_1791811785683.jpg",
+        "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg"
+      ],
+      "tags": [
+        "anti-tarnish",
+        "waterproof",
+        "hoops",
+        "gold",
+        "bestseller"
+      ],
+      "rating": 4.9,
+      "reviewCount": 38,
+      "status": "active",
+      "seoTitle": "Golden Minimal Chunky Hoop Earrings - Anti-Tarnish & Waterproof | ZARIYA LUXE",
+      "seoDescription": "Shop premium 18k gold plated chunky hoop earrings. Tarnish-free, waterproof, and hypoallergenic for daily elegance.",
+      "createdAt": "2026-10-12T13:49:06.531Z"
+    },
+    {
+      "id": "prod-2",
+      "slug": "anti-tarnish-pearl-pendant-necklace",
+      "name": "Lustrous Baroque Pearl Pendant Necklace",
+      "sku": "NECK-PRL-002",
+      "category": "necklaces",
+      "collection": "Anti-Tarnish Essentials",
+      "price": 2650,
+      "salePrice": 2150,
+      "stock": 18,
+      "material": "18K Gold Vermeil & Natural Baroque Pearl",
+      "color": "Gold & Ivory White",
+      "size": "42cm + 5cm Extender Chain",
+      "isAntiTarnish": true,
+      "description": "A genuine iridescent organic freshwater pearl suspended from a delicate cable link chain in 18K gold. Designed as a standalone heirloom piece or layered with minimal chokers.",
+      "specifications": {
+        "Plating": "18K Gold PVD Coating",
+        "Gemstone": "Cultured Baroque Freshwater Pearl",
+        "Chain Length": "42cm with 5cm adjustable extender",
+        "Clasp": "Lobster Claw Clasp",
+        "Hypoallergenic": "Yes, sensitive skin approved"
+      },
+      "careInstructions": "Gently rinse with lukewarm water after perfume application. Store inside the velvet pouch provided to safeguard the organic pearl luster.",
+      "images": [
+        "/src/assets/images/product_pearl_necklace_1791811765012.jpg",
+        "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg"
+      ],
+      "tags": [
+        "pearl",
+        "necklace",
+        "anti-tarnish",
+        "elegant",
+        "trending"
+      ],
+      "rating": 4.8,
+      "reviewCount": 29,
+      "status": "active",
+      "seoTitle": "Baroque Pearl Pendant Necklace | Anti-Tarnish Jewelry | ZARIYA LUXE",
+      "seoDescription": "Lustrous Baroque Pearl Pendant suspended from an 18k gold chain. Luxury anti-tarnish necklace delivered across Pakistan.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    },
+    {
+      "id": "prod-3",
+      "slug": "sparkling-crystal-tennis-bracelet",
+      "name": "Sparkling Crystal Tennis Bracelet",
+      "sku": "BRAC-TNN-003",
+      "category": "bracelets",
+      "collection": "Luxe Evening",
+      "price": 3200,
+      "salePrice": 2750,
+      "stock": 14,
+      "material": "AAAAA Cubic Zirconia & Rhodium / White Gold Finish",
+      "color": "Silver / White Gold",
+      "size": "17.5cm (Standard Fit)",
+      "isAntiTarnish": true,
+      "description": "Every faceted gem on this tennis bracelet catches natural and ambient light with diamond-like brilliance. Double-safety clasp ensures zero snagging on bridal wear or delicate silks.",
+      "specifications": {
+        "Stones": "AAAAA Hand-Set Cubic Zirconia Crystals",
+        "Finish": "Triple Layer Anti-Oxidation Rhodium",
+        "Stone Width": "3.5mm Round Brilliant Cut",
+        "Clasp": "Double Safety Latch Clasp"
+      },
+      "careInstructions": "Keep dry when storing. Clean with a soft dry cloth to amplify the prismatic stone sparkle.",
+      "images": [
+        "/src/assets/images/product_tennis_bracelet_1791811809037.jpg",
+        "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg"
+      ],
+      "tags": [
+        "tennis bracelet",
+        "crystal",
+        "silver",
+        "bridal",
+        "anti-tarnish"
+      ],
+      "rating": 5,
+      "reviewCount": 42,
+      "status": "active",
+      "seoTitle": "Sparkling Crystal Tennis Bracelet - Rhodium Plated | ZARIYA LUXE",
+      "seoDescription": "Exquisite 3.5mm cubic zirconia tennis bracelet with double safety latch. Premium anti-tarnish jewelry with Cash on Delivery.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    },
+    {
+      "id": "prod-4",
+      "slug": "layered-snake-chain-necklace",
+      "name": "Duo Layered Herringbone & Snake Chain",
+      "sku": "NECK-SNK-004",
+      "category": "necklaces",
+      "collection": "Anti-Tarnish Essentials",
+      "price": 2450,
+      "salePrice": 1950,
+      "stock": 12,
+      "material": "Stainless Steel / 18K Yellow Gold PVD",
+      "color": "Yellow Gold",
+      "size": "38cm & 44cm Layered with 6cm Extender",
+      "isAntiTarnish": true,
+      "description": "The effortless French layered aesthetic in one single clasp. Features a flat liquid herringbone chain paired with a round Italian snake chain that drapes seamlessly across the collarbone.",
+      "specifications": {
+        "Style": "Double Layer Pre-Styled Duo",
+        "Width": "3mm Herringbone + 1.5mm Snake Chain",
+        "Plating": "Vacuum Ionic 18K Yellow Gold",
+        "Waterproof": "100% Shower and Gym safe"
+      },
+      "careInstructions": "Store flat to prevent twisting the herringbone links. Completely tarnish-free and sweat-resistant.",
+      "images": [
+        "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg",
+        "/src/assets/images/product_pearl_necklace_1791811765012.jpg"
+      ],
+      "tags": [
+        "layered",
+        "snake chain",
+        "gold",
+        "anti-tarnish",
+        "waterproof"
+      ],
+      "rating": 4.7,
+      "reviewCount": 19,
+      "status": "active",
+      "seoTitle": "Layered Snake & Herringbone Chain Necklace | ZARIYA LUXE",
+      "seoDescription": "Double layered gold chains with anti-tarnish PVD coating. Everyday waterproof necklace for women.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    },
+    {
+      "id": "prod-5",
+      "slug": "classic-stackable-gold-rings-set",
+      "name": "Aura Stackable Gold Rings Trio",
+      "sku": "RING-TRI-005",
+      "category": "rings",
+      "collection": "Anti-Tarnish Essentials",
+      "price": 1950,
+      "salePrice": 1550,
+      "stock": 31,
+      "material": "Titanium Steel / 18K PVD Gold",
+      "color": "Warm Gold",
+      "size": "Adjustable Sizes (Fits US 6 to 8)",
+      "isAntiTarnish": true,
+      "description": "Set of three complementary rings: one twisted rope band, one smooth polished dome ring, and one micro-pave crystal band. Wear together or style across different fingers.",
+      "specifications": {
+        "Set Includes": "3 Individual Rings",
+        "Band Width": "From 1.2mm to 4.5mm",
+        "Sizing": "Slightly adjustable comfort-fit band",
+        "Durability": "Will not turn skin green or black"
+      },
+      "careInstructions": "No special maintenance required. Safe with hand sanitizers and soaps.",
+      "images": [
+        "/src/assets/images/product_gold_hoops_1791811785683.jpg",
+        "/src/assets/images/product_tennis_bracelet_1791811809037.jpg"
+      ],
+      "tags": [
+        "rings",
+        "stackable",
+        "gold",
+        "anti-tarnish",
+        "gift"
+      ],
+      "rating": 4.9,
+      "reviewCount": 31,
+      "status": "active",
+      "seoTitle": "Aura Stackable Gold Rings Trio - Anti-Tarnish Rings | ZARIYA LUXE",
+      "seoDescription": "Tarnish-free set of 3 gold rings for women. Comfort-fit, waterproof, and non-fading jewelry in Pakistan.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    },
+    {
+      "id": "prod-6",
+      "slug": "anti-tarnish-emerald-cut-bangle",
+      "name": "Solitaire Emerald Cut Anti-Tarnish Bangle",
+      "sku": "BANG-EMR-006",
+      "category": "bracelets",
+      "collection": "Luxe Evening",
+      "price": 2950,
+      "salePrice": 2400,
+      "stock": 8,
+      "material": "316L Stainless Steel & Lab Emerald Crystal",
+      "color": "Emerald Green & Gold",
+      "size": "Oval 58mm Inner Diameter",
+      "isAntiTarnish": true,
+      "description": "An architectural oval bangle with a bezel-set vibrant deep green emerald-cut crystal. Hinged design clicks effortlessly around the wrist and complements traditional or western wardrobes.",
+      "specifications": {
+        "Stone": "Hydrothermal Emerald Cut Crystal (8x6mm)",
+        "Plating": "18K Electro-Vacuum Gold Plating",
+        "Structure": "Sturdy Oval Shape with Hidden Side Clasp",
+        "Finish": "Polished High Mirror"
+      },
+      "careInstructions": "Wipe clean with a microfiber jewelry cloth. Resists tarnishing, rust, and humidity.",
+      "images": [
+        "/src/assets/images/product_tennis_bracelet_1791811809037.jpg",
+        "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg"
+      ],
+      "tags": [
+        "bangle",
+        "emerald",
+        "anti-tarnish",
+        "party wear",
+        "luxury"
+      ],
+      "rating": 4.9,
+      "reviewCount": 22,
+      "status": "active",
+      "seoTitle": "Emerald Cut Anti-Tarnish Bangle | ZARIYA LUXE Pakistan",
+      "seoDescription": "Modern oval gold bangle with deep emerald cut stone. Waterproof and non-tarnishing jewelry piece.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    },
+    {
+      "id": "prod-7",
+      "slug": "celestial-starburst-pendant-set",
+      "name": "Celestial Starburst Pendant & Earrings Set",
+      "sku": "SET-STR-007",
+      "category": "jewelry-sets",
+      "collection": "Festive Glamour",
+      "price": 4450,
+      "salePrice": 3800,
+      "stock": 9,
+      "material": "18K Gold PVD Stainless Steel & Zircon Crystals",
+      "color": "Gold",
+      "size": "Necklace 45cm + Earrings 15mm",
+      "isAntiTarnish": true,
+      "description": "An opulent matched jewelry set inspired by twilight constellations. Comprises a radiant starburst medal pendant necklace and matching drop huggies. Packaged in a signature champagne suede gift box.",
+      "specifications": {
+        "Set Includes": "1 Pendant Necklace + 1 Pair Matching Huggie Earrings",
+        "Plating": "Heavy Gold PVD Coating",
+        "Packaging": "Signature Velvet Gift Box Included",
+        "Tarnish Resistance": "Guaranteed 2+ Years Color Retention"
+      },
+      "careInstructions": "Safe for daily wear. Keep in our bespoke velvet gift box when traveling.",
+      "images": [
+        "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg",
+        "/src/assets/images/product_pearl_necklace_1791811765012.jpg"
+      ],
+      "tags": [
+        "jewelry set",
+        "gift",
+        "starburst",
+        "anti-tarnish",
+        "festive"
+      ],
+      "rating": 5,
+      "reviewCount": 16,
+      "status": "active",
+      "seoTitle": "Celestial Starburst Jewelry Set | ZARIYA LUXE",
+      "seoDescription": "Complete anti-tarnish jewelry set with necklace and earrings. The perfect anniversary or Eid gift.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    },
+    {
+      "id": "prod-8",
+      "slug": "minimalist-beaded-gold-anklet",
+      "name": "Dainty Beaded Satellite Chain Anklet",
+      "sku": "ANK-SAT-008",
+      "category": "anklets",
+      "collection": "Anti-Tarnish Essentials",
+      "price": 1650,
+      "salePrice": 1250,
+      "stock": 19,
+      "material": "Stainless Steel / 18K Real Gold PVD",
+      "color": "Gold",
+      "size": "21cm + 5cm Extender Chain",
+      "isAntiTarnish": true,
+      "description": "A barely-there dainty satellite chain peppered with polished gold beads. Sweatproof, beach-ready, and never oxidizes even during humid summer seasons.",
+      "specifications": {
+        "Length": "21cm with 5cm adjustable extension",
+        "Bead Size": "1.8mm Diamond-Cut Spheres",
+        "Waterproof": "Yes - 100% shower & ocean friendly",
+        "Fastening": "Sturdy Spring Ring Lock"
+      },
+      "careInstructions": "Shower and swim safe. Never causes green skin discoloration or metallic odors.",
+      "images": [
+        "/src/assets/images/product_tennis_bracelet_1791811809037.jpg",
+        "/src/assets/images/product_gold_hoops_1791811785683.jpg"
+      ],
+      "tags": [
+        "anklet",
+        "dainty",
+        "gold",
+        "anti-tarnish",
+        "summer"
+      ],
+      "rating": 4.8,
+      "reviewCount": 14,
+      "status": "active",
+      "seoTitle": "Dainty Satellite Chain Anklet | Anti-Tarnish Jewelry | ZARIYA LUXE",
+      "seoDescription": "Waterproof dainty gold beaded anklet. Anti-tarnish stainless steel for effortless everyday wear.",
+      "createdAt": "2026-10-12T13:49:06.532Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "productName": "Golden Minimal Chunky Hoop Earrings",
+      "customerName": "Ayesha Khan",
+      "customerEmail": "ayesha.k@example.com",
+      "rating": 5,
+      "comment": "I have been wearing these chunky hoops non-stop for 3 weeks, including gym sessions and daily showers! Not a single sign of fading or tarnishing. Truly premium quality and super lightweight on the ears.",
+      "isVerifiedPurchase": true,
+      "status": "approved",
+      "createdAt": "2026-09-28T14:20:00Z"
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-1",
+      "productName": "Golden Minimal Chunky Hoop Earrings",
+      "customerName": "Mahnoor Tariq",
+      "customerEmail": "mahnoor@example.com",
+      "rating": 5,
+      "comment": "The packaging was so luxurious with the velvet pouch and care card! Fast delivery to Lahore in 2 days. 100% recommended for everyone who loves tarnish-free gold pieces.",
+      "isVerifiedPurchase": true,
+      "status": "approved",
+      "createdAt": "2026-10-02T11:05:00Z"
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-2",
+      "productName": "Lustrous Baroque Pearl Pendant Necklace",
+      "customerName": "Fatima Zahra",
+      "customerEmail": "fatima.z@example.com",
+      "rating": 5,
+      "comment": "The pearl looks even prettier in person! It has a gorgeous natural sheen and the gold chain has that warm 18k hue without looking cheap. Placed a second order for my sister.",
+      "isVerifiedPurchase": true,
+      "status": "approved",
+      "createdAt": "2026-10-04T09:40:00Z"
+    },
+    {
+      "id": "rev-4",
+      "productId": "prod-3",
+      "productName": "Sparkling Crystal Tennis Bracelet",
+      "customerName": "Hira Siddiqui",
+      "customerEmail": "hira.s@example.com",
+      "rating": 5,
+      "comment": "Wore this to a wedding reception and received so many compliments! The double clasp is very secure and the zircon stones shine just like real diamonds. Incredible craftsmanship.",
+      "isVerifiedPurchase": true,
+      "status": "approved",
+      "createdAt": "2026-10-07T16:15:00Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-1",
+      "code": "LUXE10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 2000,
+      "maxDiscount": 1000,
+      "usageLimit": 500,
+      "usedCount": 43,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "isActive": true
+    },
+    {
+      "id": "coup-2",
+      "code": "FREESHIP",
+      "discountType": "fixed",
+      "discountValue": 250,
+      "minOrderAmount": 1500,
+      "usageLimit": 1000,
+      "usedCount": 78,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "isActive": true
+    },
+    {
+      "id": "coup-3",
+      "code": "WELCOME15",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "minOrderAmount": 3000,
+      "maxDiscount": 1500,
+      "usageLimit": 300,
+      "usedCount": 15,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "isActive": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1791813001775",
+      "orderNumber": "ZL-12432",
+      "customerName": "Test Customer",
+      "email": "test@example.com",
+      "phone": "03009876543",
+      "shippingAddress": {
+        "fullName": "Test Customer",
+        "phone": "03009876543",
+        "email": "test@example.com",
+        "houseFlat": "Flat 12",
+        "streetArea": "Gulberg",
+        "city": "Lahore",
+        "province": "Punjab",
+        "postalCode": "54000",
+        "country": "Pakistan"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Golden Minimal Chunky Hoop Earrings",
+          "image": "/src/assets/images/product_gold_hoops_1791811785683.jpg",
+          "price": 1450,
+          "quantity": 1,
+          "sku": "EAR-GLD-001"
+        }
+      ],
+      "subtotal": 1450,
+      "discount": 145,
+      "shippingFee": 250,
+      "total": 1555,
+      "couponCode": "LUXE10",
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "confirmed",
+      "trackingNumber": "ZL-TRK-506773",
+      "createdAt": "2026-10-12T13:50:01.775Z"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "ZL-98214",
+      "customerId": "cust-1",
+      "customerName": "Zainab Qureshi",
+      "email": "zainab.q@example.com",
+      "phone": "03001234567",
+      "shippingAddress": {
+        "fullName": "Zainab Qureshi",
+        "phone": "03001234567",
+        "email": "zainab.q@example.com",
+        "houseFlat": "House 42, Street 7",
+        "streetArea": "Sector F-7/2",
+        "city": "Islamabad",
+        "province": "Islamabad Capital Territory",
+        "postalCode": "44000",
+        "country": "Pakistan"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Golden Minimal Chunky Hoop Earrings",
+          "image": "/src/assets/images/product_gold_hoops_1791811785683.jpg",
+          "price": 1450,
+          "quantity": 1,
+          "variant": "Warm Gold / 22mm",
+          "sku": "EAR-GLD-001"
+        },
+        {
+          "productId": "prod-2",
+          "name": "Lustrous Baroque Pearl Pendant Necklace",
+          "image": "/src/assets/images/product_pearl_necklace_1791811765012.jpg",
+          "price": 2150,
+          "quantity": 1,
+          "variant": "Gold & Ivory White",
+          "sku": "NECK-PRL-002"
+        }
+      ],
+      "subtotal": 3600,
+      "discount": 360,
+      "couponCode": "LUXE10",
+      "shippingFee": 0,
+      "total": 3240,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "delivered",
+      "trackingNumber": "TCS-98432190",
+      "internalNotes": "Customer requested evening delivery after 4pm.",
+      "createdAt": "2026-10-05T10:30:00Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "ZL-98215",
+      "customerId": "cust-2",
+      "customerName": "Sana Bilal",
+      "email": "sana.b@example.com",
+      "phone": "03218765432",
+      "shippingAddress": {
+        "fullName": "Sana Bilal",
+        "phone": "03218765432",
+        "email": "sana.b@example.com",
+        "houseFlat": "Apartment 5B, Pearl Residency",
+        "streetArea": "Clifton Block 4",
+        "city": "Karachi",
+        "province": "Sindh",
+        "postalCode": "75600",
+        "country": "Pakistan"
+      },
+      "items": [
+        {
+          "productId": "prod-3",
+          "name": "Sparkling Crystal Tennis Bracelet",
+          "image": "/src/assets/images/product_tennis_bracelet_1791811809037.jpg",
+          "price": 2750,
+          "quantity": 1,
+          "variant": "Silver / White Gold",
+          "sku": "BRAC-TNN-003"
+        }
+      ],
+      "subtotal": 2750,
+      "discount": 0,
+      "shippingFee": 250,
+      "total": 3000,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "shipped",
+      "trackingNumber": "TRAX-881923",
+      "internalNotes": "Dispatched via Trax Express.",
+      "createdAt": "2026-10-10T14:15:00Z"
+    }
+  ],
+  "settings": {
+    "storeName": "ZARIYA LUXE",
+    "tagline": "Timeless Shine. Everyday Elegance.",
+    "logo": "ZARIYA LUXE",
+    "contactEmail": "care@zariyaluxe.com",
+    "phone": "+92 321 8849201",
+    "whatsappNumber": "923218849201",
+    "storeAddress": "Al-Hafeez Executive, Gulberg III, Lahore, Pakistan",
+    "currency": "PKR",
+    "currencySymbol": "Rs.",
+    "flatShippingFee": 250,
+    "freeShippingThreshold": 3000,
+    "codEnabled": true,
+    "announcementText": "Complimentary Free Express Shipping on all orders above Rs. 3,000 | Cash on Delivery Available Nationwide",
+    "instagramUrl": "https://instagram.com",
+    "facebookUrl": "https://facebook.com",
+    "returnPolicy": "We offer an easy 7-day hassle-free exchange and return policy. Items must be unworn in original packaging.",
+    "shippingPolicy": "Standard delivery takes 2-4 business days across major cities in Pakistan (Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad). Remote areas take 4-6 business days.",
+    "privacyPolicy": "Your privacy is paramount. We never sell or share your phone number or shipping details with third parties.",
+    "termsConditions": "All orders placed via Cash on Delivery are confirmed via phone or WhatsApp verification prior to dispatch.",
+    "heroHeadline": "Timeless Shine. Everyday Elegance.",
+    "heroSubheading": "Discover hypoallergenic & anti-tarnish 18K gold plated jewelry engineered for effortless daily luxury.",
+    "heroImage": "/src/assets/images/hero_jewelry_campaign_1791811748777.jpg",
+    "heroButtonPrimary": "Shop Collection",
+    "heroButtonSecondary": "Explore Anti-Tarnish",
+    "antiTarnishHeadline": "Made for Everyday Shine: 100% Anti-Tarnish Guarantee",
+    "antiTarnishDescription": "Engineered with advanced PVD vacuum coating over medical-grade titanium and surgical stainless steel. Impervious to water, gym sweat, perfume, and coastal humidity."
+  },
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Zariya Store Admin",
+      "email": "admin@zariyaluxe.com",
+      "role": "admin",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "passwordHash": "admin123"
+    },
+    {
+      "id": "cust-1",
+      "name": "Zainab Qureshi",
+      "email": "customer@example.com",
+      "phone": "03001234567",
+      "role": "customer",
+      "orderCount": 1,
+      "totalSpent": 3240,
+      "createdAt": "2026-09-15T00:00:00Z",
+      "addresses": [
+        {
+          "fullName": "Zainab Qureshi",
+          "phone": "03001234567",
+          "email": "customer@example.com",
+          "houseFlat": "House 42, Street 7",
+          "streetArea": "Sector F-7/2",
+          "city": "Islamabad",
+          "province": "Islamabad Capital Territory",
+          "postalCode": "44000",
+          "country": "Pakistan"
+        }
+      ],
+      "passwordHash": "customer123"
+    }
+  ],
+  "subscribers": [
+    {
+      "email": "vip@zariyaluxe.com",
+      "date": "2026-10-12T13:49:06.534Z"
+    }
+  ]
+}
